@@ -22,7 +22,7 @@ Two things recur below:
 One install adds the connection, two commands and reminders:
 
 ```
-/plugin marketplace add <owner>/buddhi-claude-plugin
+/plugin marketplace add vanshobbyfi/buddhi_plugin
 /plugin install buddhi-memory@buddhi
 ```
 
